@@ -17,7 +17,8 @@ First, run the `blackd` container that this repository provides:
     $ cd black
     $ docker-compose up
 
-Then install [BlackConnect](https://plugins.jetbrains.com/plugin/14321-blackconnect).
+Then install [BlackConnect](https://plugins.jetbrains.com/plugin/14321-blackconnect),
+and restart PyCharm.
 
 Now you can configure BlackConnect in PyCharm's settings:
 
