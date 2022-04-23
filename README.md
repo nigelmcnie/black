@@ -13,7 +13,7 @@ Read on...
 
 First, run the `blackd` container that this repository provides:
 
-    $ git clone git@github.com:nigelmcnie/black.git
+    $ git clone https://github.com/nigelmcnie/black.git
     $ cd black
     $ docker-compose up
 
